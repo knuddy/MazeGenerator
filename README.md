@@ -1,5 +1,4 @@
 # Maze Generator
---- 
 
 - Created using C#
 - Uses Depth First Search to create the maze
